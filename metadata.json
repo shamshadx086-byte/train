@@ -1,0 +1,6 @@
+{
+  "name": "Subway Runner",
+  "description": "A 3D endless runner web game inspired by Subway Surfers built with Three.js featuring 3-lane mechanics, jumping, rolling, trains, obstacles, and collectibles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
